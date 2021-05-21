@@ -1,3 +1,3 @@
 # MLDS_Problems
 
-All Data Science Problems
+All types of Data Science Problems
